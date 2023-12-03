@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect, useState } from "react";
 
-export default function unIssuePass() {
+export default function TeacherPortal() {
     const [date, setDate] = useState("");
 
     const handleSubmit = async (e) => {
